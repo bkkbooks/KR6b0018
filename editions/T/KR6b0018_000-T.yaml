@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0018/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 月光菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0166.xml
+    old_id: T03n0166
+hash: sha256:e254d3627d640a4d43287eb61712373238a3f4083151436d93983b6f64c20ee5
